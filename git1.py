@@ -5,4 +5,6 @@ for i in range(3):
 	sum+=vector1[i]+vector2[i]
 	
 print(sum)
+
 print("The result is obtained")
+
