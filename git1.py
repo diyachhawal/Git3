@@ -7,4 +7,5 @@ for i in range(3):
 print(sum)
 
 print("The result is obtained")
+print("Result")
 
